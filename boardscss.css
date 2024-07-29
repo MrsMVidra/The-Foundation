@@ -1,0 +1,43 @@
+body
+{
+      background-color:lightseagreen;
+      
+    
+}
+h1
+{
+    font-style:normal;
+    font-family: cursive;
+    font-size: xx-large;
+    color:darkblue;
+    
+}
+h2
+{
+    font-style: italic;
+    color:blue;
+    box-shadow: inset;
+}
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+button
+{
+    color:black
+    background-color royalblue 
+    
+}
+h3
+{
+    border: 2px solid black;
+    border-top-left-radius: 1em 1em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-left-radius: 1em 1em;
+    border-bottom-right-radius: 1em 1em;
+}
+footer{
+    font-style: italic;
+    font-family: fantasy;
+}
